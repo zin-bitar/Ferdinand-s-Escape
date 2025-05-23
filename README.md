@@ -1,4 +1,5 @@
-By: Zin Bitar \n
+By: Zin Bitar
+
 email: zinbitar.17@gmail.com
 
 This game is a maze. You spawn in a room, you need to find the exit while staying out of the line of sight of the bots.
